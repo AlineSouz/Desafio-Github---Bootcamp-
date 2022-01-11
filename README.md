@@ -11,6 +11,7 @@ Estou transicionando de carreira então, o Git e o Github são temas novos para 
 - Conceitos do Portugol
 - Conhecendo o Git/ Github
 - 1° Desafio: Criando um repositório 
+- Criando um app console simples de cadastro de séries
 
 
 
